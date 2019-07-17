@@ -1,5 +1,12 @@
 # Eu :)
 
+> [Voltar](./)
+
+- Desenvolvedor desde 2009
+- Manager Front-end Engineer [Plurall](https://plurall.net)
+- Escritor do livro [Coletânea Front-end `Uma antologia da comunidade front-end brasileira`](https://www.casadocodigo.com.br/products/livro-coletanea-front-end/?utm_source=refersion&utm_medium=affiliate-655a) juntamente com _Almir Filho, Bernard De Luna, Caio Gondim, Deivid Marques, Diego Eis, Eduardo Shiota, Luiz Corte Real, Jaydson Gomes, Reinaldo Ferraz, Sérgio Lopes_
+- Criador e idealizador do FrontInBH, Co-founder BrazilJS, Co-autor Browserdiet
+
 ### EN
 My main focus is Front-end development and our development stack at Somos Educação is Javascript, React, SCSS, HTML, Jest, Enzyme, and on server-side we're using Node.js and Rails, using GIT for version control. Self-taught in HTML and CSS since 2009.
 
@@ -21,3 +28,5 @@ Fui fundador e CTO da Bunee.io. Depois de fazer um belo trabalho no Peixe Urbano
 Em 4 meses, fomos selecionados para o SEED-MG, recebendo 80k BRL do governo brasileiro e 80k Euros do governo espanhol. Após 1 ano da Planedia fui contratado pelo Descomplica, obtendo sucesso ao elevar os LTV de nosso clientes de 120,00 BRL para 220,00 BRL com campanhas da MGM e outras tecnicas de Growth.
 
 Também criei a BrazilJS Foundation, onde tivemos mais de 4k desenvolvedores ativos e 5 conferências com 5.5k participantes em 6+ edições.
+
+> [Voltar](./)
