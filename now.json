@@ -1,1 +1,23 @@
-{"version":2,"name":"keppelen.dev","builds":[{"src":"*.css","use":"@now/static"},{"src":"**/*.md","use":"@now/md","config":{"title":"Giovanni Keppelen","language":"pt-BR","meta":[{"name":"description","content":"Giovanni Keppelen - Manager Front-end Enginner at Plurall"}],"css":"/style.css"}}]}
+{
+    "version": 2,
+    "name": "keppelen.dev",
+    {
+        "alias": "keppelen.dev"
+    },
+    "builds": [{
+        "src": "*.css",
+        "use": "@now/static"
+    }, {
+        "src": "**/*.md",
+        "use": "@now/md",
+        "config": {
+            "title": "Giovanni Keppelen | Manager Front-end Enginner at Plurall",
+            "language": "pt-BR",
+            "meta": [{
+                "name": "description",
+                "content": "Giovanni Keppelen - Manager Front-end Enginner at Plurall"
+            }],
+            "css": "/style.css"
+        }
+    }]
+}
