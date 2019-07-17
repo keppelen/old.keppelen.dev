@@ -7,7 +7,7 @@ body {
     font-size:18px;
     line-height:1.5;
     word-wrap:break-word;
-    max-width: 62vw;
+    max-width: 55vw;
     margin: 0 auto 3rem auto;
     padding: 0 1em;
 }
@@ -385,4 +385,12 @@ kbd{
 }
 hr{
     border-bottom-color:#eee
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    max-width: 95vw;
+    margin: 0 auto 2rem auto;
+    padding: 0 10px;
+  }
 }
