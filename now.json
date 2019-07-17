@@ -1,9 +1,7 @@
 {
     "version": 2,
     "name": "keppelen.dev",
-    {
-        "alias": "keppelen.dev"
-    },
+    "alias": "keppelen.dev",
     "builds": [{
         "src": "*.css",
         "use": "@now/static"
