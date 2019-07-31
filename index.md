@@ -7,3 +7,5 @@
 Aqui você encontra conteúdos que leio por aí, e de coisas que tenho feito no dia a dia que podem ajudar outras pessoas que gerenciam um time de tecnologia ou desenvolvedores querendo melhorar processos de tecnologias, em sua empresa, como métricas de review, processos de code review e algumas automações para ajudar o processo com time de produto.
 
 Se quiser saber mais sobre minha carreira, dá uma olhadinha [aqui :)](./about)
+
+## [Ferramentas/Serviços](./tools)
