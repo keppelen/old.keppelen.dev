@@ -9,3 +9,7 @@ Aqui você encontra conteúdos que leio por aí, e de coisas que tenho feito no 
 Se quiser saber mais sobre minha carreira, dá uma olhadinha [aqui :)](./about)
 
 ## [Ferramentas/Serviços](./tools)
+---
+
+## BlogPosts
+- [Guia para carreira no desenvolvimento web — o início da história / _Por: Alexandre Magno_](https://link.medium.com/1P2uVl1rR0)
