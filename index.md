@@ -8,10 +8,15 @@ Aqui você encontra conteúdos que leio por aí, e de coisas que tenho feito no 
 
 Se quiser saber mais sobre minha carreira, dá uma olhadinha [aqui :)](./about)
 
-## [Ferramentas/Serviços](./tools)
----
+## Ferramentas e Serviços
 
-## BlogPosts
+- [https://pullpanda.com](https://pullpanda.com) -> Permite você ter uma análise1 sobre seu time de tecnlogia em code reviews. Além de fazer um processo legal de comunicar mudanças no slack do seu time. Recentemente o [GitHub comprou a empresa](https://pullpanda.com/github) e dispoinibilizou free para todos os seus usuários.
+- [https://codecov.io/](https://codecov.io/) -> Além de inumeras feautes, a mais importante que vejo é o merge automático :) - Isso ajuda muito quando se tem um time grande onde o processo de review pode acabar prejudicando mais do que ajudando.
+- [https://github.com/chdsbd/kodiak](https://github.com/chdsbd/kodiak)
+- [https://codeclimate.com/](https://codeclimate.com/)
+
+## Conteúdos
+
 - [Guia para carreira no desenvolvimento web — o início da história / _Por: Alexandre Magno_](https://link.medium.com/1P2uVl1rR0)
 - [Avalie e desenvolva o seu time corretamente](https://link.medium.com/wtyDLkssR0)
 - [Trabalhando a reflexão dentro de equipes](https://link.medium.com/4sYPiNCsR0)
