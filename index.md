@@ -1,4 +1,5 @@
 # Giovanni Keppelen
+### Technology Manager of [Plurall](https://www.plurall.net), a EdTech of [SOMOS Educação](http://www.somoseducacao.com.br/plurall/)
 
 [![Linkedin](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-32.png)](http://linkedin.com/in/keppelen/)
 [![Twitter](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-32.png)](https://twitter.com/keppelen)
