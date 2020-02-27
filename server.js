@@ -2,7 +2,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const showdown = require("showdown");
 const fs = require("fs");
-const PORT = process.env.PORT || 3000;
+const PORT = 7000;
 
 const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
