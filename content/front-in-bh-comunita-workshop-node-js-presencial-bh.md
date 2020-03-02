@@ -1,4 +1,4 @@
-## Comunita.io, Front in BH e porque disso tudo?
+## Comunita.io, Front in BH e o porque disso tudo?
 > Para explicar tudo, precisamos de uma pequena história :)
 
 Em 2011 criei o Front in BH. A ideia sempre foi criar um evento para fomentar e crescer a comunidade front-end de Belo Horizonte. Nessa época, o nome era pouco usado e as tecnologias então, nem se fala. Quando criamos, na minha mente havia uma ideia muito clara do que queríamos e qual era o objetivo do evento. Primeiramente era me introduzir na comunidade, que naquela época era quase 0 em BH. O segundo ponto era levar conhecimento, já que as grandes referências no Brasil nesse assunto eram de outras cidades ou até mesmo de outro país. Tudo aconteceu muito rápido e antes que desse conta já estávamos na 4ª edição do evento com mais de 1500 pessoas impactadas e gerando conhecimento/network sobre Front-end no Brasil. Logo depois, tivemos mais 2 edições e a ultima em 2017 com mais 3.100 pessoas impactadas com todas as edições.
