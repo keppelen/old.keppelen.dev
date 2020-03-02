@@ -19,7 +19,7 @@ Espero que gostem, compartilhem e nos ajudem a melhorar. Afinal, tudo é constru
 
 Espero vocês, seja nesse inicial ou nos próximos que ainda virão. De pessoas da comunidade para a comunidade!
 
-[Quero saber mais do workshop de node.js](https://comunita.io/workshop-nodejs-bh-presencial)
+[Quero saber mais do workshop de node.js](https://comunita.io/workshop-nodejs-bh-presencial?utm_source=keppelen.dev)
 
 ---
 > [Voltar](./)
