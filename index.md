@@ -18,6 +18,7 @@ Se quiser saber mais sobre minha carreira, dá uma olhadinha [aqui :)](./about)
 
 ## Conteúdos
 
+- [Comunita.io, Front in BH, Workshop de Node.js e o porque disso tudo?](./content/front-in-bh-comunita-workshop-node-js-presencial-bh)
 - [Guia para carreira no desenvolvimento web — o início da história / _Por: Alexandre Magno_](https://link.medium.com/1P2uVl1rR0)
 - [Avalie e desenvolva o seu time corretamente](https://link.medium.com/wtyDLkssR0)
 - [Trabalhando a reflexão dentro de equipes](https://link.medium.com/4sYPiNCsR0)
