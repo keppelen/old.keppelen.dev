@@ -38,6 +38,11 @@ app.get("/about", async (req, res) => {
   loadFile(res, "about/index.md");
 });
 
+app.get("/content/:slug", (req, res) => {
+  const slug = req.params.slug
+  loadFile(res, `content/${slug}.md`);
+});
+
 app.get("/", (req, res) => {
   loadFile(res, "index.md");
 });
