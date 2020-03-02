@@ -17,6 +17,9 @@ Para começar a nossa jornada, Victor Ferraz um amigo que esteve comigo desde o 
 
 Espero que gostem, compartilhem e nos ajudem a melhorar. Afinal, tudo é construído com tempo e confiança. Da mesma forma que hoje recebemos todo esse carinho do pessoal pelo Front in BH queremos que o comunitá.io o receba. Digo isso não para nós mesmos mas sim para a comunidade, pois é assim que acreditamos entregar e gerar conhecimento com qualidade para todos.
 
-Espero vocês, seja nesse inicial ou nos próximos que ainda virão. De pessoas da comunidade para a comunidade! 
+Espero vocês, seja nesse inicial ou nos próximos que ainda virão. De pessoas da comunidade para a comunidade!
 
+[Quero saber mais do workshop de node.js](https://comunita.io/workshop-nodejs-bh-presencial)
+
+---
 > [Voltar](./)
