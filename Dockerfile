@@ -14,4 +14,6 @@ COPY --chown=node:node . .
 
 USER node
 
+EXPOSE 7000
+
 CMD [ "node", "server.js" ]
