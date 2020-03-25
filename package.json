@@ -5,9 +5,15 @@
   "repository": "git@github.com:keppelen/keppelen.dev.git",
   "author": "Keppelen <keppelen.as@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon -e js,html server.js"
+  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "showdown": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }

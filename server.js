@@ -5,6 +5,8 @@ const fs = require("fs");
 const PORT = 7000;
 
 const app = express();
+app.use("/static/courses", express.static(__dirname + "/assets/course"));
+
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
@@ -42,12 +44,18 @@ const loadFile = (res, path) => {
   });
 };
 
+app.get("/curso-aplicacoes-front-end-incriveis", async (req, res) => {
+  fs.readFile(`${__dirname}/curso/index.html`, "utf8", (error, page) => {
+    return res.send(page);
+  });
+});
+
 app.get("/about", async (req, res) => {
   loadFile(res, "about/index.md");
 });
 
 app.get("/content/:slug", (req, res) => {
-  const slug = req.params.slug
+  const slug = req.params.slug;
   loadFile(res, `content/${slug}.md`);
 });
 
