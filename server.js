@@ -44,12 +44,6 @@ const loadFile = (res, path) => {
   });
 };
 
-app.get("/curso-aplicacoes-front-end-incriveis", async (req, res) => {
-  fs.readFile(`${__dirname}/curso/index.html`, "utf8", (error, page) => {
-    return res.send(page);
-  });
-});
-
 app.get("/about", async (req, res) => {
   loadFile(res, "about/index.md");
 });
@@ -63,6 +57,6 @@ app.get("/", (req, res) => {
   loadFile(res, "index.md");
 });
 
-app.listen(PORT, function() {
+app.listen(PORT, function () {
   console.log(`Server running on port ${PORT}`);
 });
